@@ -1,0 +1,4 @@
+*.cfg
+*.vcfg
+!autoexec.cfg
+!jump_*.cfg
