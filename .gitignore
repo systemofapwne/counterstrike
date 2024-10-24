@@ -2,3 +2,4 @@
 *.vcfg
 !autoexec.cfg
 !jump_*.cfg
+!practice.cfg
